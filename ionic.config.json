@@ -1,0 +1,7 @@
+{
+  "name": "creditetoffrehabitat-iu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
